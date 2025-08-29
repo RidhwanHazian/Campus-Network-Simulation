@@ -13,7 +13,7 @@ This repository contains our **ITT300 (Introduction to Data Communication and Ne
 
 ## 📂 Repository Contents
 - `ITT300_NETWORK_DESIGN.pkt` – The Packet Tracer simulation file.  
-- `ITT300-report(1).pdf` – Detailed documentation of the project (design, configuration, testing, challenges & solutions).  
+- `ITT300-report(2).pdf` – Detailed documentation of the project (design, configuration, testing, challenges & solutions).  
 
 ## 🚀 How to Use
 1. Open the `.pkt` file using **Cisco Packet Tracer** (version 8.2 or newer recommended).  
