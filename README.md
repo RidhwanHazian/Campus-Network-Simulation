@@ -12,7 +12,7 @@ This repository contains our **ITT300 (Introduction to Data Communication and Ne
 - Tested connectivity using **ping**, **envelope test**, and **web access test**.  
 
 ## 📂 Repository Contents
-- `GP_itt300_THE_REAL_FINAL.pkt` – The Packet Tracer simulation file.  
+- `ITT300_NETWORK_DESIGN.pkt` – The Packet Tracer simulation file.  
 - `ITT300-report(1).pdf` – Detailed documentation of the project (design, configuration, testing, challenges & solutions).  
 
 ## 🚀 How to Use
